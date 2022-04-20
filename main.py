@@ -4,7 +4,6 @@ import os
 import numpy as np
 import easyocr
 
-API_KEY = "K88780082388957"
 RTSP_CELULAR = "rtsp://172.26.237.202:5540/ch0"
 RTSP_SHIELDER = "rtsp://admin:Shielder1234@192.168.1.102:554/Streaming/Channels/102/"
 
