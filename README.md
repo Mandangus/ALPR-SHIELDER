@@ -1,3 +1,5 @@
+# Importante
+- para windows recomendo seguir: https://techzizou.com/yolo-installation-on-windows-and-linux/
 ## Requirements
 - GCC
 - Python 3
