@@ -2,6 +2,7 @@
 - para windows recomendo seguir: https://techzizou.com/yolo-installation-on-windows-and-linux/
 ## Requirements
 - GCC
+- Pytorch: https://pytorch.org/get-started/locally/
 - Python 3
 - Darknet
 - OpenCV
